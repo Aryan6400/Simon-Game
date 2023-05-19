@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(29, 29, 86);
+    text-align: center;
+}
+h1{
+    font-size: 6rem;
+    margin-top: 2%;
+    margin-bottom: 3.5%;
+    color: rgb(247, 222, 189);
+    font-family: 'VT323', monospace;
+}
+.container{
+    width: 50%;
+}
+.col{
+    width: 14rem;
+    height: 14rem;
+    display: inline-block;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 3%;
+}
+.colG{
+    background-color: green;
+}
+.colR{
+    background-color: red;
+}
+.colY{
+    background-color: yellow;
+}
+.colB{
+    background-color: blue;
+}
+.click{
+    opacity: 10%;
+    border-color: white;
+}
